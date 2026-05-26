@@ -1,0 +1,94 @@
+CRITICAL - 2025-05-16 01:02:55 --> Undefined property: stdClass::$nama
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2025-05-16 01:03:27 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(38): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2025-05-16 01:03:36 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(38): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2025-05-16 01:04:29 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(38): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2025-05-16 01:05:08 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(38): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2025-05-16 01:25:34 --> Trying to get property 'email' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\LoginController.php(14): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 14, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\LoginController->login()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2025-05-16 01:26:00 --> Trying to get property 'kode_produk' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->ubah('2', 'update')
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2025-05-16 01:26:13 --> Trying to get property 'kode_produk' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 15, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->create()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2025-05-16 01:26:15 --> Trying to get property 'kode_produk' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 15, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->create()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2025-05-16 01:26:26 --> Trying to get property 'kode_produk' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->ubah('3', 'update')
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

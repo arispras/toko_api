@@ -1,0 +1,532 @@
+CRITICAL - 2024-04-30 17:34:20 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:34:41 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:37:53 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:39:04 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:39:28 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:39:30 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:40:37 --> Call to undefined method App\Controllers\RegistrasiController::initController()
+#0 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2024-04-30 17:40:40 --> Call to undefined method App\Controllers\RegistrasiController::initController()
+#0 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#2 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#3 {main}
+CRITICAL - 2024-04-30 17:41:10 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:41:12 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:50:12 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:50:49 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:50:51 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:53:20 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 17:53:29 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:02:44 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:05:37 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:05:39 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:05:40 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:06:40 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:10:55 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(46): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:11:46 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:12:47 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:14:30 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:18:14 --> Unable to connect to the database.
+#0 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#2 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#3 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#4 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(27): CodeIgniter\Model->save(Array)
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:20:02 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(27): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-30 18:21:35 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(27): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-30 18:22:02 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(27): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-30 18:23:19 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:23:40 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:29:14 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:34:06 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 D:\xampp\htdocs\toko-api\system\Commands\Server\rewrite.php(34): require_once('D:\\xampp\\htdocs...')
+#10 {main}
+CRITICAL - 2024-04-30 18:37:29 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:38:42 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:40:44 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 18:43:26 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(26): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-30 18:43:55 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(26): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-30 18:55:51 --> Call to a member function getVar() on null
+#0 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(890): App\Controllers\RegistrasiController->__construct()
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-04-30 19:19:18 --> Class 'App\Controllers\RestfulController' not found
+#0 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(365): require_once()
+#1 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\toko-api\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 [internal function]: spl_autoload_call('App\\Controllers...')
+#5 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-04-30 19:22:05 --> Function name must be a string
+#0 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-04-30 19:22:56 --> Cannot use object of type stdClass as array
+#0 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-04-30 19:29:49 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(29): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-04-30 19:35:04 --> Undefined property: stdClass::$kode_produk
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 15, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->create()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 19:35:43 --> Undefined property: stdClass::$ama_produk
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 16, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->create()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 19:37:03 --> Undefined property: stdClass::$ama_produk
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->ubah('1')
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 21:57:48 --> Undefined property: stdClass::$email
+#0 D:\xampp\htdocs\toko-api\app\Controllers\LoginController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'D:\\xampp\\htdocs...', 17, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\LoginController->login()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 22:09:06 --> Trying to get property 'email' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\LoginController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 17, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\LoginController->login()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 22:10:58 --> Trying to get property 'email' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\LoginController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 17, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\LoginController->login()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 22:11:12 --> Trying to get property 'email' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\LoginController.php(17): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 17, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\LoginController->login()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\LoginController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 22:12:40 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 22:16:02 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 22:16:08 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 22:17:07 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(19): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 19, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-04-30 23:49:06 --> Trying to get property 'kode_produk' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(46): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 46, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->ubah('9', 'update')
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

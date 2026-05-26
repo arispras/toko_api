@@ -1,0 +1,24 @@
+CRITICAL - 2025-05-15 22:23:46 --> Column 'kode_produk' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `pr...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(25): CodeIgniter\Model->insert(Array)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->create()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2025-05-15 22:24:15 --> Column 'kode_produk' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `pr...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pr...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pr...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pr...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\app\Controllers\ProdukController.php(25): CodeIgniter\Model->insert(Array)
+#6 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\ProdukController->create()
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProdukController))
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 {main}

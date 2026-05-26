@@ -1,0 +1,68 @@
+CRITICAL - 2024-05-11 02:44:14 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(38): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-11 02:44:37 --> Column 'nama' cannot be null
+#0 D:\xampp\htdocs\toko-api\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `me...')
+#1 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `me...')
+#2 D:\xampp\htdocs\toko-api\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `me...')
+#3 D:\xampp\htdocs\toko-api\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `me...', Array, false)
+#4 D:\xampp\htdocs\toko-api\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\xampp\htdocs\toko-api\system\Model.php(574): CodeIgniter\Model->insert(Array, false)
+#6 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(38): CodeIgniter\Model->save(Array)
+#7 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#8 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#9 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2024-05-11 02:45:05 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-05-11 02:45:19 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-05-11 02:46:01 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-05-11 02:46:34 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-05-11 02:47:04 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-05-11 02:49:48 --> Trying to get property 'nama' of non-object
+#0 D:\xampp\htdocs\toko-api\app\Controllers\RegistrasiController.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to get p...', 'D:\\xampp\\htdocs...', 20, Array)
+#1 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(918): App\Controllers\RegistrasiController->registrasi()
+#2 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegistrasiController))
+#3 D:\xampp\htdocs\toko-api\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 D:\xampp\htdocs\toko-api\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
